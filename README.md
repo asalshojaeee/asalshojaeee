@@ -16,8 +16,10 @@ Full-Stack Developer crafting web apps with React & Node.js (2+ yrs) — also bu
 - Node.js
 - REST API
 
+### Database
+- MongoDB
+  
 ### Desktop
 - WPF
 
-### Database
-- MongoDB
+
