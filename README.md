@@ -3,7 +3,7 @@
 ## 💻 About Me
 Full-Stack Developer crafting web apps with React & Node.js (2+ yrs) — also building desktop solutions with WPF.
 
-## 🚀 Tech Stack
+## My skills
 
 ### Frontend
 - React
